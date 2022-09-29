@@ -1,0 +1,1371 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.baremetalsoft.com/index.php
+Subject: Bare Metal Software > Tools for Computer Professionals
+Date: Thu, 29 Sep 2022 17:00:36 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----"
+
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: text/html
+Content-ID: <frame-9400176DCB6C8DE55F1A235EE4632099@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.baremetalsoft.com/index.php
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3Dwindows-1252">
+		<title>Bare Metal Software &gt; Tools for Computer Professionals</title>
+		<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.baremetals=
+oft.com/style.css">
+	</head>
+	<body bgcolor=3D"#FFFFFF" cz-shortcut-listen=3D"true">
+		<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"6">
+			<tbody><tr bgcolor=3D"#9999CC">
+				<td>
+					<a href=3D"https://www.baremetalsoft.com/">
+						<img src=3D"https://www.baremetalsoft.com/baremetalsoftcom.gif" style=
+=3D"border:0" width=3D"150" height=3D"50" hspace=3D"0" vspace=3D"0" alt=3D"=
+Bare Metal Software Home">
+					</a>
+				</td>
+				<td align=3D"right" valign=3D"bottom">
+					<p class=3D"tight">
+						<small>
+							Last updated May 04 2016 11:09:52<br>
+							Copyright =A9 2003, 2004, 2005, 2006 Bare Metal Software Pty Ltd.
+						</small>
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor=3D"#CCCCFF">
+				<td align=3D"left" colspan=3D"2">
+					<p class=3D"tight">
+						Home&nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/baretail/in=
+dex.php">BareTail</a>&nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/=
+baretailpro/index.php">BareTailPro</a>&nbsp;|&nbsp;<a href=3D"https://www.b=
+aremetalsoft.com/baregrep/index.php">BareGrep</a>&nbsp;|&nbsp;<a href=3D"ht=
+tps://www.baremetalsoft.com/baregreppro/index.php">BareGrepPro</a>&nbsp;|&n=
+bsp;<a href=3D"https://www.baremetalsoft.com/register/index.php">Buy Now</a=
+>&nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/news/index.php">News=
+</a>&nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/contact/index.php=
+">Contact&nbsp;Us</a>					</p>
+				</td>
+			</tr>
+		</tbody></table>
+
+
+<h1 class=3D"tight">Bare Metal Software</h1>
+<p class=3D"tight"><b>Tools for Computer Professionals</b></p>
+
+<table width=3D"100%">
+	<tbody><tr valign=3D"top">
+		<td width=3D"50%">
+			<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+		<td bgcolor=3D"#EEEEEE" rowspan=3D"2" align=3D"right" valign=3D"top" widt=
+h=3D"15%">
+			<p class=3D"sidebar">
+				<small>
+					<a href=3D"https://www.baremetalsoft.com/baretail/index.php"><img src=
+=3D"https://www.baremetalsoft.com/baretail/BareTail2.gif" style=3D"border:0=
+" width=3D"38" height=3D"41" alt=3D"BareTail Icon"></a><br>
+					<a href=3D"https://www.baremetalsoft.com/baretail/index.php">Product&n=
+bsp;Overview</a><br><a href=3D"https://www.baremetalsoft.com/baretail/usage=
+.php">Command&nbsp;Line&nbsp;Use</a><br><a href=3D"https://www.baremetalsof=
+t.com/baretail/faq.php">FAQ</a><br><a href=3D"https://www.baremetalsoft.com=
+/baretail/comments.php">User&nbsp;Comments</a>				</small>
+			</p>
+			<p class=3D"sidebar">
+				<br>
+				<small>
+					I now watch 5 logs on my screen and the highlighting makes my job SO E=
+ASY!<br><small><i>- Kevin, U.S.A.</i></small>
+				</small>
+			</p>
+		</td>
+		<td valign=3D"top" width=3D"85%" bgcolor=3D"#EEEEEE">
+			<table width=3D"100%">
+				<tbody><tr>
+					<td>
+						<h2 class=3D"tight"><a href=3D"https://www.baremetalsoft.com/baretail=
+/index.php">BareTail</a></h2>						<p>
+							Release 3.50a 2006-11-02=20
+							<small><a href=3D"https://www.baremetalsoft.com/news/index.php">What=
+'s new?</a></small>
+							<br>
+							<small class=3D"platform">Win32 (Windows 95, 98, ME, NT, 2000, XP, 2=
+003, Vista)</small>
+						</p>
+						<p>
+							<a href=3D"https://www.baremetalsoft.com/baretail/download.php?p=3Dm=
+"><b>Free Version</b></a> -
+							<b>baretail.exe (220k)</b>
+							<small><a href=3D"https://www.baremetalsoft.com/baretail/licence.php=
+">Licence</a></small>
+							<br>
+							<small>- Startup splash screen cannot be disabled</small>
+						</p>
+						<p>
+							<a href=3D"https://www.baremetalsoft.com/register/index.php"><b>Regi=
+stered Version</b></a> - <b>Only $US 25</b> <small>
+							<a href=3D"https://www.baremetalsoft.com/baretail/registered_licence=
+.php">Licence</a></small>
+							<br>
+							<small>- Option to disable startup splash screen</small>
+						</p>
+					</td>
+									</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p>
+	<b>A free real-time log file monitoring tool.</b>
+</p>
+<ul>
+	<li><p class=3D"tight">Real-time file viewing</p></li>
+	<li><p class=3D"tight">Follow tail mode (like tail -f on Unix)</p></li>
+	<li><p class=3D"tight">View files of any size (&gt; 2GB)</p></li>
+	<li><p class=3D"tight">Scroll to any point in the file instantly</p></li>
+	<li><p class=3D"tight">Configurable highlighting</p></li>
+	<li><p class=3D"tight">Monitor multiple files simultaneously</p></li>
+	<li><p class=3D"tight">Visual indication of file status/changes</p></li>
+	<li><p class=3D"tight">International character sets (Unicode and UTF-8)</p=
+></li>
+	<li><p class=3D"tight">Many file formats (Win32, Unix, Microsoft IIS logs)=
+</p></li>
+	<li><p class=3D"tight">Flexible configuration options and storage</p></li>
+	<li><p class=3D"tight">Single small executable, no installer</p></li>
+</ul>
+			<p><small><a href=3D"https://www.baremetalsoft.com/baretail/index.php">F=
+eature details and screenshots...</a></small></p>
+					</td>
+	</tr>
+</tbody></table>
+
+		</td>
+		<td width=3D"50%">
+			<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+		<td rowspan=3D"2" bgcolor=3D"#EEEEEE" align=3D"right" valign=3D"top" widt=
+h=3D"15%">
+			<p class=3D"sidebar">
+				<small>
+					<a href=3D"https://www.baremetalsoft.com/baretailpro/index.php"><img s=
+rc=3D"https://www.baremetalsoft.com/baretailpro/BareTailPro2.gif" style=3D"=
+border:0" width=3D"38" height=3D"41" alt=3D"BareTailPro Icon"></a><br>
+					<a href=3D"https://www.baremetalsoft.com/baretailpro/index.php">Produc=
+t&nbsp;Overview</a><br><a href=3D"https://www.baremetalsoft.com/baretailpro=
+/usage.php">Command&nbsp;Line&nbsp;Use</a><br><a href=3D"https://www.bareme=
+talsoft.com/baretailpro/regex.php">Regex&nbsp;Reference</a><br><a href=3D"h=
+ttps://www.baremetalsoft.com/baretailpro/export.php">Export&nbsp;Reference<=
+/a><br><a href=3D"https://www.baremetalsoft.com/baretailpro/faq.php">FAQ</a=
+><br><a href=3D"https://www.baremetalsoft.com/baretailpro/comments.php">Use=
+r&nbsp;Comments</a>				</small>
+			</p>
+			<p class=3D"sidebar">
+				<br>
+				<small>
+					I just tested BareTailPro... I wouldn't have believed it was possible =
+to make BareTail more surprisingly useful!<br><small><i>- Jean-Christophe, =
+Belgium</i></small>
+				</small>
+			</p>
+		</td>
+				<td valign=3D"top" width=3D"85%" bgcolor=3D"#EEEEEE">
+		<h2 class=3D"tight"><a href=3D"https://www.baremetalsoft.com/baretailpro/=
+index.php">BareTailPro</a></h2>			<p>
+				Release 2.50a 2006-11-02				<small><a href=3D"https://www.baremetalsoft=
+.com/news/index.php">What's new?</a></small>
+				<br>
+				<small class=3D"platform">Win32 (Windows 95, 98, ME, NT, 2000, XP, 2003=
+, Vista)</small>
+			</p>
+			<p>
+				<a href=3D"https://www.baremetalsoft.com/baretailpro/download.php?p=3Dm=
+"><b>Demo Version</b></a> - <b>baretailpro.exe (298k)</b>
+				<small><a href=3D"https://www.baremetalsoft.com/baretailpro/licence.php=
+">Licence</a></small>
+				<br>
+				<small>- Automatically terminates after 5 minutes</small>
+				<br>
+				<small>- Startup splash screen cannot be disabled</small>
+			</p>
+			<p>
+				<a href=3D"https://www.baremetalsoft.com/register/index.php"><b>Registe=
+red Version</b></a> - <b>Only $US 35</b> <small>
+				<a href=3D"https://www.baremetalsoft.com/baretailpro/registered_licence=
+.php">Licence</a></small>
+				<br>
+				<small>- No automatic termination after 5 minutes</small>
+				<br>
+				<small>- Option to disable startup splash screen</small>
+			</p>
+					</td>
+	</tr>
+	<tr>
+		<td>
+			<p>
+	<b>A real-time log file monitoring tool with text searching and filtering.=
+</b>
+</p>
+<p>All the features of BareTail <i>plus</i>...</p>
+<ul>
+	<li><p class=3D"tight">Regular expression text search</p></li>
+	<li><p class=3D"tight">High-performance search algorithm</p></li>
+	<li><p class=3D"tight">Filter tail mode (include or exclude lines)</p></li=
+>
+	<li><p class=3D"tight">Save, name and manage text search patterns</p></li>
+	<li><p class=3D"tight">Export/copy search and filter results</p></li>
+</ul>
+			<p><small><a href=3D"https://www.baremetalsoft.com/baretailpro/index.php=
+">Feature details and screenshots...</a></small></p>
+					</td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
+<br>
+<table width=3D"100%">
+	<tbody><tr valign=3D"top">
+		<td width=3D"50%">
+			<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+		<td rowspan=3D"2" bgcolor=3D"#EEEEEE" align=3D"right" valign=3D"top" widt=
+h=3D"15%">
+			<p class=3D"sidebar">
+				<small>
+					<a href=3D"https://www.baremetalsoft.com/baregrep/index.php"><img src=
+=3D"https://www.baremetalsoft.com/baregrep/BareGrep2.gif" style=3D"border:0=
+" width=3D"38" height=3D"41" alt=3D"BareGrep Icon"></a><br>
+					<a href=3D"https://www.baremetalsoft.com/baregrep/index.php">Product&n=
+bsp;Overview</a><br><a href=3D"https://www.baremetalsoft.com/baregrep/usage=
+.php">Command&nbsp;Line&nbsp;Use</a><br><a href=3D"https://www.baremetalsof=
+t.com/baregrep/regex.php">Regex&nbsp;Reference</a><br><a href=3D"https://ww=
+w.baremetalsoft.com/baregrep/export.php">Export&nbsp;Reference</a><br><a hr=
+ef=3D"https://www.baremetalsoft.com/baregrep/faq.php">FAQ</a><br><a href=3D=
+"https://www.baremetalsoft.com/baregrep/comments.php">User&nbsp;Comments</a=
+>				</small>
+			</p>
+			<p class=3D"sidebar">
+				<br>
+				<small>
+					BareGrep is now at the top of my list of must-have utilities.<br><smal=
+l><i>- Dzung, U.S.A.</i></small>
+				</small>
+			</p>
+		</td>
+		<td valign=3D"top" width=3D"85%" bgcolor=3D"#EEEEEE">
+			<table width=3D"100%">
+				<tbody><tr>
+					<td>
+						<h2 class=3D"tight"><a href=3D"https://www.baremetalsoft.com/baregrep=
+/index.php">BareGrep</a></h2>						<p>
+							Release 3.50a 2006-11-02							<small><a href=3D"https://www.baremet=
+alsoft.com/news/index.php">What's new?</a></small>
+							<br>
+							<small class=3D"platform">Win32 (Windows 95, 98, ME, NT, 2000, XP, 2=
+003, Vista)</small>
+						</p>
+						<p>
+							<a href=3D"https://www.baremetalsoft.com/baregrep/download.php?p=3Dm=
+"><b>Free Version</b></a> - <b>baregrep.exe (246k)</b>
+							<small><a href=3D"https://www.baremetalsoft.com/baregrep/licence.php=
+">Licence</a></small>
+							<br>
+							<small>- Startup splash screen cannot be disabled</small>
+						</p>
+						<p>
+							<a href=3D"https://www.baremetalsoft.com/register/index.php"><b>Regi=
+stered Version</b></a> - <b>Only $US 25</b>
+							<small><a href=3D"https://www.baremetalsoft.com/baregrep/registered_=
+licence.php">Licence</a></small>
+							<br>
+							<small>- Option to disable startup splash screen</small>
+						</p>
+					</td>
+									</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p>
+	<b>A free file finding and text searching tool.</b>
+</p>
+<ul>
+	<li><p class=3D"tight">Regular expression text search</p></li>
+	<li><p class=3D"tight">High-performance search algorithm</p></li>
+	<li><p class=3D"tight">Wildcard and regular expression file search</p></li=
+>
+	<li><p class=3D"tight">Recursive directory search</p></li>
+	<li><p class=3D"tight">Save, name and manage text search patterns</p></li>
+	<li><p class=3D"tight">Interactive, incremental search</p></li>
+	<li><p class=3D"tight">Extract data with capturing groups</p></li>
+	<li><p class=3D"tight">Tabular presentation of search results</p></li>
+	<li><p class=3D"tight">Export/copy search results in many formats</p></li>
+	<li><p class=3D"tight">Search files of any size (&gt; 2GB)</p></li>
+	<li><p class=3D"tight">Many file formats (Win32, Unix, Microsoft IIS logs)=
+</p></li>
+	<li><p class=3D"tight">Flexible configuration options and storage</p></li>
+	<li><p class=3D"tight">Single small executable, no installer</p></li>
+</ul>
+			<p><small><a href=3D"https://www.baremetalsoft.com/baregrep/index.php">F=
+eature details and screenshots...</a></small></p>
+					</td>
+	</tr>
+</tbody></table>
+
+		</td>
+		<td width=3D"50%">
+			<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+		<td rowspan=3D"2" bgcolor=3D"#EEEEEE" align=3D"right" valign=3D"top" widt=
+h=3D"15%">
+			<p class=3D"sidebar">
+				<small>
+					<a href=3D"https://www.baremetalsoft.com/baregreppro/index.php"><img s=
+rc=3D"https://www.baremetalsoft.com/baregreppro/BareGrepPro2.gif" style=3D"=
+border:0" width=3D"38" height=3D"41" alt=3D"BareGrepPro Icon"></a><br>
+					<a href=3D"https://www.baremetalsoft.com/baregreppro/index.php">Produc=
+t&nbsp;Overview</a><br><a href=3D"https://www.baremetalsoft.com/baregreppro=
+/usage.php">Command&nbsp;Line&nbsp;Use</a><br><a href=3D"https://www.bareme=
+talsoft.com/baregreppro/regex.php">Regex&nbsp;Reference</a><br><a href=3D"h=
+ttps://www.baremetalsoft.com/baregreppro/export.php">Export&nbsp;Reference<=
+/a><br><a href=3D"https://www.baremetalsoft.com/baregreppro/faq.php">FAQ</a=
+><br><a href=3D"https://www.baremetalsoft.com/baregreppro/comments.php">Use=
+r&nbsp;Comments</a>				</small>
+			</p>
+			<p class=3D"sidebar">
+				<br>
+				<small>
+					I've been wishing for tools like these for years.<br>Thank You.<br><sm=
+all><i>- Mark, U.S.A.</i></small>
+				</small>
+			</p>
+		</td>
+				<td valign=3D"top" width=3D"85%" bgcolor=3D"#EEEEEE">
+		<h2 class=3D"tight"><a href=3D"https://www.baremetalsoft.com/baregreppro/=
+index.php">BareGrepPro</a></h2>			<p>
+				Release 2.50a 2006-11-02				<small><a href=3D"https://www.baremetalsoft=
+.com/news/index.php">What's new?</a></small>
+				<br>
+				<small class=3D"platform">Win32 (Windows 95, 98, ME, NT, 2000, XP, 2003=
+, Vista)</small>
+			</p>
+			<p>
+				<a href=3D"https://www.baremetalsoft.com/baregreppro/download.php?p=3Dm=
+"><b>Demo Version</b></a> - <b>baregreppro.exe (310k)</b>
+				<small><a href=3D"https://www.baremetalsoft.com/baregreppro/licence.php=
+">Licence</a></small>
+				<br>
+				<small>- Automatically terminates after 5 minutes</small>
+				<br>
+				<small>- Startup splash screen cannot be disabled</small>
+			</p>
+			<p>
+				<a href=3D"https://www.baremetalsoft.com/register/index.php"><b>Registe=
+red Version</b></a> - <b>Only $US 35</b>
+				<small><a href=3D"https://www.baremetalsoft.com/baregreppro/registered_=
+licence.php">Licence</a></small>
+				<br>
+				<small>- No automatic termination after 5 minutes</small>
+				<br>
+				<small>- Option to disable startup splash screen</small>
+			</p>
+					</td>
+	</tr>
+	<tr>
+		<td>
+			<p>
+	<b>A file finding and text searching tool which shows search results in co=
+ntext.</b>
+</p>
+<p>All the features of BareGrep <i>plus</i>...</p>
+<ul>
+	<li><p class=3D"tight">Real-time file viewer to see search results in cont=
+ext</p></li>
+	<li><p class=3D"tight">Tabs for convenient access to files recently viewed=
+</p></li>
+	<li><p class=3D"tight">Configurable highlighting</p></li>
+</ul>
+			<p><small><a href=3D"https://www.baremetalsoft.com/baregreppro/index.php=
+">Feature details and screenshots...</a></small></p>
+					</td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
+
+<hr noshade=3D"" size=3D"3" color=3D"#EEEEEE">
+		<form action=3D"https://www.baremetalsoft.com/notify.php" method=3D"post"=
+>
+			<h3 align=3D"center" class=3D"tight">
+				Want to know about new releases?
+			</h3>
+			<p align=3D"center">
+				<input type=3D"text" name=3D"email" value=3D"name@example.com">
+				<input type=3D"submit" value=3D"Subscribe for News"><br>
+				<small>We only send email when we release a new version (<a href=3D"htt=
+ps://www.baremetalsoft.com/privacy.php">Privacy Policy</a>)</small>
+				<br>
+				<br>
+				<small>
+					Our product news is also provided as an RSS
+					<a type=3D"text/xml" href=3D"https://www.baremetalsoft.com/news/produc=
+t-updates.php"><img src=3D"https://www.baremetalsoft.com/news/rss.gif" alt=
+=3D"Bare Metal Software RSS News Feed"></a>=20
+					feed. =20
+				</small>
+			</p>
+		</form>
+
+		<p align=3D"center">
+			<a href=3D"https://www.baremetalsoft.com/index.php">Home</a>&nbsp;|&nbsp=
+;<a href=3D"https://www.baremetalsoft.com/baretail/index.php">BareTail</a>&=
+nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/baretailpro/index.php"=
+>BareTailPro</a>&nbsp;|&nbsp;<a href=3D"https://www.baremetalsoft.com/bareg=
+rep/index.php">BareGrep</a>&nbsp;|&nbsp;BareGrepPro&nbsp;|&nbsp;<a href=3D"=
+https://www.baremetalsoft.com/register/index.php">Buy Now</a>&nbsp;|&nbsp;<=
+a href=3D"https://www.baremetalsoft.com/news/index.php">News</a>&nbsp;|&nbs=
+p;<a href=3D"https://www.baremetalsoft.com/contact/index.php">Contact Us</a=
+>		</p>
+
+		<p align=3D"center"><small>Copyright =A9 2003, 2004, 2005, 2006 Bare Meta=
+l Software Pty Ltd.</small></p>
+				<img src=3D"https://www.baremetalsoft.com/stats.php?request_uri=3D%2Fin=
+dex.php&amp;http_referer=3D" width=3D"4" height=3D"4" hspace=3D"0" vspace=
+=3D"0" alt=3D"">
+=09
+
+<div><div style=3D"display: none; position: fixed; top: 30px; width: auto; =
+max-width: 100%; text-align: center; left: 50%; transform: translateX(-50%)=
+; z-index: 99999999;"><div style=3D"display: inline-block; font-size: 14px;=
+ font-weight: bold; border: 1px solid rgb(240, 195, 109); background-color:=
+ rgb(249, 237, 190); padding: 0px 10px; border-radius: 2px; box-shadow: rgb=
+a(0, 0, 0, 0.2) 0px 2px 4px;"></div></div></div><iframe frameborder=3D"0" s=
+crolling=3D"no" style=3D"background-color: transparent; border: 0px; displa=
+y: none;"></iframe><div id=3D"GOOGLE_INPUT_CHEXT_FLAG" input=3D"" input_sta=
+t=3D"{&quot;tlang&quot;:true,&quot;tsbc&quot;:true,&quot;pun&quot;:true,&qu=
+ot;mk&quot;:true,&quot;ss&quot;:true}" style=3D"display: none;"></div></bod=
+y></html>
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.baremetalsoft.com/style.css
+
+@charset "windows-1252";
+
+body { margin: 0px; padding: 0px; font-family: verdana, arial, sans-serif; =
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: arial, sans-serif; color: rgb(0, 0, 1=
+28); margin: 1em 4.5pt 0.5em; padding: 0px; }
+
+p, ol, ul { font-size: 9pt; color: rgb(64, 64, 64); }
+
+p { margin: 4.5pt; }
+
+ol, ul { margin: 0px 4.5pt 0px 12pt; }
+
+pre { font-family: "Lucida Console", monospace; font-size: 9pt; margin: 4.5=
+pt 10% 4.5pt 5%; padding: 9pt; background: rgb(64, 64, 64); color: white; }
+
+kbd { font-family: monospace; font-size: 13pt; color: black; }
+
+button { padding: 0.1em 0.5em; }
+
+.tight { margin-top: 0px; margin-bottom: 0px; }
+
+.attention { color: rgb(0, 128, 0); }
+
+.advert { color: rgb(85, 85, 136); }
+
+.upgrade, .error { color: rgb(204, 0, 0); }
+
+.platform { color: rgb(153, 153, 204); }
+
+a:link img, a:visited img { border-style: none; }
+
+a img { color: white; }
+
+a:link, a:visited { color: rgb(0, 0, 128); }
+
+a:hover { color: rgb(0, 0, 255); }
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/baremetalsoftcom.gif
+
+R0lGODlhlgAyAOcAAAICAiYmGjo6Ko6Ogurq4MLCqgoKChYWFt7eykZGRh4eHZ2dji4ungICZtra
+xiYmklJSUqqqmtbWyRISiiIiIvb23gIChx4ejkJCQra2rNLSwmZmZt7e0nJyWgICXTo6n87OwN7e
+3gICgioqHrq6qnp6akpKSsrKsNra7t7e5erq6gICcvb25iIiEi4uItLS6vLy5vr67IKCegYGh9bW
+6sbGts7O6eLi4x0dD66unr6+tjIymgYGghYWiuLi6srK5QoKhjY2KkZGou7u7tra4w8PAoaGeqOj
+lMbG5A4Ohvr68g4ODpaWhvLy7NbWz9LS0iIiigICbrKypgoKBf7+8ubm6r6+vtra2rq6yhoaikJC
+nsLCvsrKvgICfs7Oxubm3NbW1i4umgoKglZWVubm1erq8gICaoqKfqKiocbG1gYGBhYWDpKSgv7+
+9l1dXS4uJjIynqammsrKwu7u3/Ly8sLC5tLS5s7O2bq6rg4Oiu7u8r6+4hoamBYWjmpqUrq6svb2
+9Z6ekhISEdbW5ubm5uLi1MrK1La2tvLy++bm7rKyqj4+njIyJvr64Do6OBoaGv7++ubm8g4OgiIi
+nt7e7tra1nJycn5+bq6uosbGujY2oPr697q6th4emj4+PZ6enWpqauLi2+bmzvr6/gICeu7u9paW
+jvb2+5KShjIyKnZ2ddLSyra2yvLy27KyrsbGvs7OzeLi8qampioqIqqqnnp6eNLS3urq90JCq35+
+fj4+qrKyshYWlhISj9raygoKiubm9mJiYiIimo6OjsbGxh4ek0ZGsiYmJtLSzsrKypKSkrq6utra
+zv7+4QICYq6uqtbW3v7+/jo6p+Lizioqmv7+7W5uXvLy9sLCwpqaqt7ezkJCNsLCrqqqqdbW8rq6
+3oKCggICdjY2NjY2mBoajq6urj4+o4aGhiIikoqKitra6ioqKiIiHG5uakZGqt7e+tLS2vLy4tra
+9tLS9r6+ujIyMuLi7paWljY2pt7e6kpKRBYWkkJCo8LCt9ra0i4uLiwAAAAAlgAyAAAI/gABGKAg
+Tly9gwjrFVzIsGHBeseWABBI0GDCgw4zLoQokeLDiwo1ZuQ4ceDHiyJHRixZEWTIhhwNPBoGBtsh
+WbJ2Hdq1q5zPn0CD7sKGRtDEA+me2MSpk2fQp0CHFj2adGnOnT2hQpVqFABSpTevOtX6lCtVsEyx
+lrXy6RiFYXQAwbKSDQ2xJ3jB6N3Lt28IFZ/UAFiSbgiduXXv5u3LeO/fwIMLH6ZrF++TxpgfCyZs
+GHHlxZj9At4s2bPiy3yfXLlh5eATQofSGTnXDRs2YrZz6959G8yyYwLPEQoRe3bt27yT2ybmG7gB
+4cRl016uPDnz38GHF5+OvPru686h/m8/jvs780MGZWWTcU7WIdtWlhPDbaW+ffvYksE6N/FcCFjD
+5NLee9jEd9t8Bd53X3779fdfgAPCJx99CuKnH38A+AeggO5JeCCFFcZ3oYMbRljghCfetYs464Cz
+QDfvEbOFfMtYsQyCHuaWTDcHALDBjsOA06GMNNqI44m67djjj90EOeSMB9Z4Y3lI6sijj0AKGSOU
+80l5pIFWLpnlk0XeuBwYK/4jSxoU1mhFMsuokssw5RCYIJjJoPGIJ7l8ogyMtykIp5x02omfbXnu
+2ecwQwq6jCW5pAMofPXpqCeffnaYoJtwQiqpoZUiemmff8boKKE63XYFevXs4kSB/vS4mZ8se4Lj
+J4zl2delnMrUaQWFCc5a662H5FrfrrUMA6OBlVZKzCeC1NOOMu3tYuyvxMSZS69DJUgPPTZa0U82
+0apiirLFUoqttr0e8muwlSZDqye2MrrMqgqV44QTqzAjwSr1yfsIluWkAw6ulHa5zDKBNmshrQQb
+jHCCXXICCzPa8LtFha+Uw84bpoTwyTlaGqsww1ZssYoEzHCgjTarOMGBFAG8oQxREqdLcbYLNxzf
+ggJHDM4y3RxUDiHR2KPOO23AskUyT4ADgBrgXFGie+/qBuydOkY9ddVXu2usE9EAg0IskMAia3yV
+QJIGFpFEM8cWQQ6YdW7EWEFP/ijRlFFGKdckUkY00dyCxR2buAJLMhBiTSV1oR6an9dqaKjMPaoc
+U88zBAADBykMJIIMPdg8sYsCAqWjQgi7kCzkiT8zeyiYpqNugOqsuy4L7PQ44XkXDNgjAZh6M3OL
+JhbgAswzerUOzus/w74KJD8wAMQveQCxwwvRmGOBMbZ4ospwzkMPu+yR51Z76ircQAw464hTzhyR
+WOCBCPY4ETAYw5R0jgqEsIIswKGMoYQocrHLD//8B0ABEtCANpJAIuyHPyeAyz7LcEIZLNCAX6RB
+AJYgRAAHWMA71YcTEigDA8zAwig0wAxaoAEQGpCHO0wBALloIAkhGCJKBSsZ/mBIh/+GMIpd5Cse
+iJhBA4CgB21UCha7AA4ABPE/QmBjF8vAYvTOxywfQlGKVATgFbPoJitooxRK/EUTwWWbLdDjjDOI
+QiegYZQcWhGLWjQhM8rwiwasgBwXWIEZLkAJcphhEjdYQ3DEiMcaISl2XQyW6aRImGiAwSCugMEp
+8tBBPfiDjUDs30SWkIsQ3GA15cAiyrYIr+iFciKDKeUpb5DKGr2xFJzMQyk+eadb5sEMwkikQGSJ
+SlWeaBln/GUPEmGPCQwyFugwQydSgINREpOWxmxWbhx2olce5R5PMMgz5nCKPuZhjcd6wiHWAUs1
+KGMIhKuCu2aXvvPdZZ3t/nwn4WBToy2c0ZyeZJi3zggEMzwgEi2YiDvhGQ15avON1+jjBAjHAw9M
+QB0XaAAffLCNfDLUofSMZOzuyc6JUCAXx5AfDBCRBDPokgNsVKAoJ2KJZBAOEOXohiND1coqeZOm
+No3GKXK6sGlcIwlLLIU2Lggro+ZBjilIKFBvStT6xIoDuHSGGAgXhi5oAQV9MAM5okELWAKgplTV
+aQJ9qE1ELbAkGyDIM1Y6wyR48oLxUWdJBWGJmxFOBYcoY7Aeeb7S4XOKfcUG4YYQWDOW4hdmSIJS
+SfczZD42CuTg6ET46tdoALaMEIUsEAiXj0FcIxo9MMM+oiEBMCb2r43l/iZhF6TXiRzDEhSohyvi
+sUkaTjZJQZxIAkimDGIQric7ZWv08BRcAAyXgK+IRhG7wQkOXCOXeuDATvWmDZaagRdkFS5xjRuN
+ntiHHtPAZVJbsbJWAOIXzkjCKOIhROeO97jlSG5PweTW+kIAHAqoRzlW2sdflEK797lLOWw3hg3U
+4h6wiIYewjU7CUHyV09YsEAaXAtlRJgOy9ABVgG6VGbdsqC9iAYXGOxgCEdjCDaC1T8bkIRbSIAT
+nJiGHiCbB0TEoxssfnCEJ1xGkZownRo+gAkeIY5n8PaXdmVGTAtEjB2BgwJLUEMC3DAMWDThELE9
+4GCpbGUsAwADwegy/mN3wYyjujS7RYYoJydwCgJ048oSwQCXYcHYwBbVzefUBo61cV0aXqMQcriz
+mfXc5SYsI8w9HOyvdnSOdVBAECpFREF1yQxOLGNjFEMGLLqRiwMYAACOAMUWfBPYWH1rYbAGV6zB
+9QpYwGKAChBMqq3ghEMg4Kg01EOnFxYrTuyxrnpA9I5koIAbigMUVriC3pbBCV/cYoac5sQhtLFj
+3xbiFfrpBrNvuOsnENvVsbLluc89aVgc4h6ac3Jve9CGZmiDA8lYwCH2pY1CFOILhXiGMgKAAwGY
+Qg5S4EK/XuavVcTMFy+bhsRdVggOVMIfTyhEJgLBiIKjAuFkOEUv/howAUBUgBlOuLcvVtGKiC5R
+D63gwBfmMAcQBCIAa3gDKjSABxAwAxmtoANSewCIVngBBHMARFiJHo9V3CYUX+ACxx+RigH8oRtc
+wJg2fq4BhzNj4hwAe8aYAYsrLOOIm4xCL2iwiUTcIhTWwAQkYmGPUtyiFNGARDSgAYs7pAAYhCvF
+30oRCRUQLhKxKIXiAXcNxaugFJCgAuFOkQJYGMIHeafDC/qwgj7YYBN9S0QpEsHQXBKuDLdAxCii
+gQhbVCMGPrhFIvSgAj0Q7pcTsIHto0EHG/Sg8za4BhU0UAjWr/4KhjBEG6pBBbc3PhKDi0Yk6n6N
+xjO+FCq4BSQI/uCEFW1upb/sfB/yoIk9hKIQkYCDCH4xAzjYIBry0AUv9jGDD0TjBTuYQR7y0P4X
+jGIRIrB/eTAB+0eAMxAGPxANNqAJvMAHndAL0uAN0cAPebAC4bACQGAOP6AJ66c9KBANE9AAPRAN
+KLADQJAHvZAHv2AO8GcOE5AEKrgDH9gHUbAC7XcKp6AJQLACPDgDmhALX0A9mpAH+8AH5GAO86CA
+mjAD2AMEcMA9H2AB2DOABLh/B1gH0UAI5aAQrsACaceDLmQGcJAIrYACXeAMDfBCH6AOixAFbtgA
+IvADi9BCZvBCWvACSBUFZuCGK+CGYfgBKGAOLSRIDbAIP8AD/mawAqSwAkv0DSLgDCxkBkJgD33g
+DORACULwQizUAM4gAjZgDnrohiw0ieTghs5ACohwDaTgR4vYAF0wCHNgDwwQin1oBovAhpFYhzCE
+h5roh374QmFwCyrgCgZxCDEwCvsQBeFwAYHUQZHQCvlADTwwAYx4ATRwAXs4ATywCC8Qgn8USIOE
+AtiIWYHEg4AkSFkwCBlFjoLUAzYgBJLAg+GQB0LgDeaQBD3gQlBACdhISFCQiBMwATMgAovgew1A
+ji7kjzV4g5uQfzy4AjywAykwB4kwQ+zYAFlwjQcJSAmZDxdQg+dojs0IBGUwB8R4DMrgC9GQjD0w
+fT1AY7fQ/gptYA90QANh9QD2AAVRMAE0MASAgFpm0JL2kFroEAnoEAVZkAix8HtZ4JJmAAXQZAZN
+OZRmMFEKyHnF8AJXEA2JoAI0UIrokAj/iA6xoJN9gAKbUAb28JP5uExLaQZFeZTumAKEswm+twI9
+8AKl0AZzsGNRsExUiZNyiXhEKZZIqZRM6ZQ9BgPlIA4S4QlEwAckRzgj9wtl4AuwoAEVoAS98JRG
+2QB9AAiNUAGAMGeEE4IPkAgPMJnR0Aes6UypGU1WOXJJAAjVoATOxAdg0AGXMAA10ASdCQWfGZck
+twmNoA2+kHRINZueuZoTcAPc4A+E05pm0At00AoagABl/rCclOmZ6MCaI1eUzkk4rjmbhgYDxDgR
+OBACndAAkkA4QOAMlukAnPAH00AHv0ScSTAEvoAAO+YM7xkN8UmcWyWgAEo4YtAAYfmdAZqgeTAE
+zdAEfbQPPlACbnAJq4CfcPmZBxVNTIQAf/AH2jlDBZqg+pkIhQAITQACNxCfktVpCFAKJEpRDSCc
+31mgM0Sg8Hmg0SAG8okIjCkOE8EIKSCZMwCfS0QHc6ABvtAImzByHdpJzOCfphkNWQCXifCdoxUN
+SMUDSPoAwPCPIxgN5LBEZdAMejBDvVAFTJALW7CjRQkFCvqZPWCcvqABc0AHfbSlBWWjDTADp7BP
+EqAC/r+kRsygA4TGSVvaBR6QBxi1REhKnFvapUiaB9eAnuKgBoJgBKcgmUmwo3lweomwCWBlUJ9p
+qFQaBX0ADMBQmN/5qQJKY0gKBcAQTeQADJGQWufUDHSwaVVQAFwwneHJoVmqqmxXeLcnqwLqmXLK
+A6AHCN0AAjv2ZsxgWX1UoNRACosAVvE1q58Jq3WFpL9wqY0pCAkgBdHAC1pFONyJAnDwC+SQBX14
+UHJ6Tr7ADLhkBuGADs1ISBlVoEgFsA2Qmg+gjFBQDIxIks1QaFZZBoGKAqkVpf7qR33QB074gSEo
+sMTJA6tHCLsgAeqlS9qAqMBWoD4wCKD3khobCXIq/rACu5jEaABTwATXQJtImgX2kIl7CIZRaq8x
++lRgWIf8MJTKGq6xKp4W2IcvhA9lIAF6MHIjqA5wkAc90APhEAVR2gc5+0J6+EKT2APderQsawa/
+MApt8AzPQGh9ZFeCNmMFSgba0AyQwEngOqeviqTgGl9A2phLsAQRgAgjJ7AXII57GJJRaqiE1pkr
+EJAeiFrryqWPi1QHVbB4OQG/4H5f4AdPsA9iFQtCoIsPGZsiGA00AAdAULWCtI//yq4D+5lAUAq+
+QF3WhVScBlEBe1yfIAebALYCC6Yty66Re57EyA4y0AbRYLPLmpo6mZRvKbpq5Au+oAfKRAmFkwin
+/lm02NuhZnCWaYkI0RAILvAEfBCO2LgCzMiDogurSrkJ6kCDflq3tPqPeZAPJPAM1eVygYaoj9UA
+BXoB4TAOYIW9tHq3sVq3lhqk9YAMxpsHweunVkmUn3lOU7q/Y+oLf1AAKgBfANvAkfAAVbkJFSBz
+VlAEUwAPwmBQWRqU9pCrBhWm67UKTboJzqSjXNq636lGGkBtWPVLr1utbaaohCMCFkUJN8q6orvB
+LwukxKgm/ZAIdEs4kKWfCDqn8itsv2ZO16ABMlALgXADT1zA8MmskXUN2rAFr1ALAIADkamgWTq6
+1DnANJYIDnAIIoqfbEzAfeTApcAMVsAJhZCm/pGlB76gA9G7tlBco98aqW1ct3mbBHsrDv9QCxmQ
+CFBLOFlgt25cpj0ryMlEck1wAguQAaIQUZEbvMRZp41QCJygDwBgDdcwvpMblITzkvRKQ0UHvc3w
+pE/pwmN6pT17CyOLTIVWm60gAa1wChPgDGMKwXI6pobku/wLvC97qcSYCmhQCCK3vbh6kym8qiy8
+ydDrl/uAAkNwBXETDYYMxrFqozuJlornBJawAHSwDwNrD9HUB7cADDf5mX0QDZsQCXoACWAVBXGp
+zd/cxi/1LSNWlf6cDz8ZVt4MwfeMqxGbyOqMbUqMSSxwXYl4AQiLkS9QpuZbDFcLBYlwAc7A/kTM
+4AuR0EeYNQEWEAYU9bjxiaMNQA7iSLEwjQ/5EAhx4MQ3zY97WAxQ0IdhWQwkhwL80AVA0Af52AAX
+ENJ+5NGChNNZIJ/CFisEldQfoK02wEkrcLDoKNUjzYhZgALkQNM0vUTXwAJGtDnxcAscFIlpuIZz
+uId66FJ2AAT3IzwaUAY7oIvO4AGkEKiMSgqEc9hB7AFA8AL8oIsNcD+UAAIgUD8ewAMvoAV1KIo0
+tNcekARIwANoqIkNsIYfEIku1AAxVFFdEAtSRg/MkAiMCgRIcNg/cNotVNfqcNqkrdo0MAOEndjB
+HQ2MagHAUAiykAryQwiRwAABuH+/gIDR/jAP0sAHfLAPEyAC5vAC5iACO2APqwALkFAHO4A9vyAC
+D3AKo5Ct1DAK690FcEA40mAB9mcD5Z09IsAAsRAzzd0F46CAcKB/+2cB3Og97vAOxiDgv6A93GMH
+Jrh/QBAG3KMJXRAGibAKC4MMkUANXYALKOAOFsCC+DeFv8AACWjfJM4A3DMOpNDe6w068m0B0mAP
+eGAJKeUKhDB39qAHgpcIkQAJ1bB3d0AE3nsLg0MEP0AJkOAF9PAF0hcLeqCW9kBag0C90ZAPsXAL
+VFANd4ACqyd9RJACtzB9S+4FkEAJNDDloacHbL7C0VAKsQAP1UAEtyBUtxALRBADMSB9/rMne+fs
+AzSg5KNDD8gQDbEQC4jQBvCQBtEXCZGQAingdpAQA5AQCaJXBj5OOPZQ5VRe522QBmlQ506QC+sg
+YMjALy1zbyi3Cl6QASMgCC6ACszHAVxwBHEgB8jQx/Tgdf7AAWS3ChoAC8jgcBqADByQAbOgBuww
+AE0QA5XwCnGACSDgBMggActAD7AgAfzicP3CAf6wdRLQ6zrgAkUwAgNQDW1QCCDwCZ/gCl3X61vn
+cBKQ7RrjJjHDAX/ACGpwDEYACErgD1wQATkAAg5HD17QL73ODPIOC9se7E7gD4cwAvs+AKD31uUA
+C9hw7Rr/asQgC11hADJwA6zRDT3B/gnhQg+c8C2vtm4L8ytXAgBTAA4hEAL08Aw9EStWRW3X7mnn
+Bi70sAXE8PIgfwMh0A82r1M9n27EVkYt3/EDMzWlFAJWkErlkPLppvKv5mlK/y2J1iPBcQqXJA67
+UBP1sTEbIyJPMFOkdAUhwPY+IVgLgg1nPyMiggxqH/VgEArPkF9MlTKxc/b3getqLwMzDwYp4BN4
+ZR9m3yx0jw24Xl+DQfghUAkh8PYp82kKIvcpo/m3AQuQLwjgZBC7UAnl8TjEIAdgcAj/AEtLcA90
+8FeOJB/dgQ2vgDe0f0+rXxL3cFqe5Ui48fsH0h3Anwa9lvsC4fqwDybEUPu/D/zI/lFlqW/8BoD8
+vR8fzj/73wFEqg9LJ6U5VnADYHAZqKEXl/EXUzERtQAG0zkfluEE4r8X4//+N6AC5w8AtVAJ608M
+yGAZ4R/+79//APHECZgUKtAIApAwV6VoDYkRg/XkCbwnYCpKtAgmY8UbBhEqBNMw2sOIGDVW1JhS
+ZceDCZe0U3Dsk5VDu2ruwnlI5zJsaA4kVOMm3bIhdJ7orJkUp82lSWvy9AlUKFGjTpnqZHrV5iFO
+PX8mnDpEz5NlSJVival0F9SvQYeKhbVsa9OldXOu9ZpQkJsDS47VEycOcODA9QzXO7YkoYGY4jxh
+8ORo8GDClAsXRqwYgIFHxxxDKHYk+DLhyqQPJ17c2XECT6INmyY92jBqAGpUe0qAIfbo3a4zAxWk
+JiAAOw==
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/baretail/BareTail2.gif
+
+R0lGODlhJgApAOcAAO7u7u3t7ezs7Ovr6+rq6unp6ejo6Ofn54CAgODg4N/f3+Hh4eTk5MDAwNDQ
+0NLS0tXV1dra2uPj4wAAAL29vcTExMrKyuXl5eLi4qqqqrW1tcHBwcvLy9zc3N3d3dnZ2d7e3ubm
+5pqamqioqLe3t8/Pz8zMzM7OztPT07u7u7i4uLm5ub6+vsfHx6Ojo6GhoaSkpKysrMjIyNbW1oeH
+h42Njb+/v9HR0Wtra25ubnh4eIqKiqCgoNvb21FRUVdXV2ZmZn19fZiYmLKyssnJyTs7O0ZGRllZ
+WXNzc5GRka6ursbGxtjY2CsrKzk5OVBQUG1tbcXFxSEhITIyMkpKSmlpaYuLi9fX1xwcHC0tLUdH
+R2dnZxoaGomJiampqRgYGCoqKmVlZUVFRRcXFxkZGSwsLGhoaKurq////w4ODi8vL62trQoKChIS
+EiAgIDU1NXBwcJKSkrGxsQcHBycnJz09PXl5eba2ts3NzQwMDBQUFDMzM4WFhR8fHy4uLkNDQ1tb
+W3d3d5SUlK+vrxEREUBAQFZWVoyMjKampry8vLCwsFVVVSgoKH5+fmJiYkxMTJ6enrS0tNTU1HZ2
+dk1NTUhISEtLS1paWmxsbHp6eoaGhpWVlcPDw6enp5ubm5OTk46Ojv//////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////yH5BAEKAP8ALAAAAAAmACkA
+AAj+AAEIHDgwgIABBAoYOHDAQAECAwQEIEixokUAAQYg2IgggQIFCRYwOFBgQICJGA0KWHnyIkYB
+GxvIbLDRwQMIERRIOEBgpYAJCQsIjYiSYkYEMydMmImAQgULDyIkuOAQwYQLEjBIGFlAolGNM8My
+zaBhAwcIHRIgneAhwocIIBaE6Fo0QMwGS5XqXUpTxAgSFe5OKGGCwwkUEeQSKApTrGOmHMNOSKFi
+BYsWDzpI6CrwKF6ln/fyfYzXxQsYMVbImJHgwACBAgogJU1bMg0aNUTEsHEDRIjXGQ+sBS2auOik
+OHLo2MGDhIkeDAhgHBBidu3aE3z8ABJEyBAiH6L+YyTAYHje4qH3ypxQxMgRJEmULGEiQXoA8tav
+k57QxMkTKDXEEAV9BYwngXnp6RWaYxNIMQUVVViRQQVXbIZRAQfqhx0WWWixxQ4TVlhgABgiWNx5
+6q3HRRNGANGFFxRaSGKGGu73BRhGhPFijCOWuKCCQKa43o1i6AijiBfS+JiCtE0wBhhF7ojkjCYa
+h2KKTkJpJI9J5icWk/s9GeWRMvoY5InGJSXmllP6+CWaSz7ZopRlZgjmiTay+GGIdXqZlJATcLTR
+BGSUoYUZVpwxYH1d/sgXk3mhISleaWChBhU41LDGEh8wSiV2X046ARttuPHGE3DEIQcREYj36Zn+
+owGJBl5zpPEFHXUcYYcId+DRwQXAuVljXnPkoYcbe1ABBB8uUPCAAq41WuNnbKShRx9+/AFIIIIM
+EsUMCxgggIFoljtBGoSM4YYfhRgCxyGIJFLCr4uNx8AHMigSBxKL1FGGFFiQ8cXABJOBhRuM7PGH
+ITnQwMMdRDARrknjXdCDCXeI0Igjj9Sxhx9NgCHyyGWo8UYdVAACBw2QRLKEJAqEUO90IYBwAwWI
+1DCJI4tQUokRQAdthBaW+HDJFjocwkMkUaAAwgV0dSaAAQnMsEQkPNTQCBKYmLEFEGCDvYUZmMCR
+iSabIHLHEk4zEPVAsTHQwQ2caNCJJ5+AcsiPDnz3vcMhoHwiAgyKUGABBCC47RVBwWEQwQ0tsHCH
+HGuckcHlmGdwhhJy3MHCEg4wMdXbFAlAwAEYeDDDDSYQ0UIUsMcO+xItWIDHA1d4gIHMi1dkEAEG
+MLAACB24xcTxyCP/QQ8eJIABVUS5lBJCC11wAQPYZ689AxeEQFJPRUn/0kEElG/++ecPEL1LAQEA
+Ow==
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/baretailpro/BareTailPro2.gif
+
+R0lGODlhJgApAOcAAO7u7u3t7ezs7Ovr6+rq6unp6ejo6Ofn54CAgODg4N/f3+Hh4eTk5MDAwNDQ
+0NLS0tXV1dra2uPj4wAAAL29vcTExMrKyuXl5eLi4qqqqrW1tcHBwcvLy9zc3N3d3dnZ2d7e3ubm
+5pqamqioqLe3t8/Pz8zMzM7OztPT07u7u7i4uLm5ub6+vsfHx6Ojo6GhoaSkpKysrMjIyNbW1oeH
+h42Njb+/v9HR0Wtra25ubnh4eIqKiqCgoNvb21FRUVdXV2ZmZn19fZiYmLKyssnJyTs7O0ZGRllZ
+WXNzc5GRka6ursbGxtjY2CsrKzk5OVBQUG1tbcXFxSEhITIyMkpKSmlpaYuLi9fX1xwcHC0tLUdH
+R2dnZxoaGomJiampqRgYGCoqKmVlZf//////AP+/AEVFRRcXFxkZGSwsLGhoaKurqw4ODi8vL62t
+rQoKChISEiAgIDU1NXBwcJKSkrGxsQcHBycnJz09PXl5eba2ts3NzQwMDBQUFDMzM4WFhR8fHy4u
+LkNDQ1tbW3d3d5SUlK+vrxEREUBAQFZWVoyMjKampry8vLCwsFVVVSgoKH5+fmJiYkxMTJ6enrS0
+tNTU1HZ2dk1NTUhISEtLS1paWmxsbHp6eoaGhpWVlcPDw6enp5ubm5OTk46OjoCAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCH5BAEKAP8ALAAAAAAmACkA
+AAj+AAEIHDgwgIABBAoYOHDAQAECAwQEIEixokUAAQYg2IgggQIFCRYwOFBgQICJGA0KWHnyIkYB
+GxvIbLDRwQMIERRIOEBgpYAJCQsIjYiSYkYEMydMmImAQgULDyIkuOAQwYQLEjBIGFlAolGNM8My
+zaBhAwcIHRIgneAhwocIIBaE6Fo0QMwGS5XqXUpTxAgSFe5OKGGCwwkUEeQSKApTrGOmHMNOSKFi
+BYsWDzpI6CrwKF6ln/fyfYzXxQsYMVbImJHgwACBAgogJU1bMg0aNUTEsHEDRIjXGQ+sBS2auOik
+OHLo2MGDhIkeDAhgHBBidu3aE3z8ABJEyBAiH6L+YyTAYHje4qH3ypxQxMgRJEmULGEiQXoA8tav
+k57QxMkTKDXEEAV9BYwngXnp6RWaYxNIMQUVVViRQQVXbIZRAQfqhx0WWWixxQ4TVlhgABgiWNx5
+6q3HRRNGANGFFxRaSGKGj3F012MTfAGGEWG8GOOIJS6oFwJijEGGVSmup2MZPcIo4oU0OkakkfmJ
+NYEZYDDp45MzmqjUlEeeuB6WWjopY5CQcVTkkTZaSWaTP0JpHgJjiGHnGEbaKUaYo12ZJZxcoinT
+RngWiicZbLq5o4tmApmhgoQaiuiNSX3B4ochnhklZIVOupaNVp2BhhZpWKHGgPXJKeQEGyHKZl7+
+euK1BhZsUIFDDW0s8UGqXZLW6o0T2ImXG2/AEccTcsxBBxERiNergntxBK0YeNWxxhd23HEEHiLk
+oUcHFwAnqIZ51bEHH3D0QQUQfrhAwQMKuKaqhutN4MYafPwBSCCCDEJIIVHMsIABAhh44sF6rWGI
+GXAAcggiciSiyCIlgLvYeAx8IAMjcyDRyB1oSIHFGV+UbPIZWMDhSB+BIJIDDTzkQQQTA5s03gU9
+mJCHCI9AEskdfQDSBBhEF40GG3HcQYUgctAgySRLUKJACBdPFwIIN1CgSA2VQNKIJZcYIfbYRmiB
+iQ+ZbKFDIjxMEgUKIFxAV2cCGJDADEtMwkO7DY8goUkaWwAhuOBbpKGJHJtw0okieSwBNwNzDxQb
+Ax3c4IkGn4ASiiiJ7OD55zskIkooIsDACAUWQAAC5F4RFBwGEdzQAgt50NGGGhnkrnsGaihBRx4s
+LOEAE1NFTpEABByAgQcz3GACES1EIf300i/RggV6PHCFBxhQ3XpFBhFgAAMLgNCBW0ykr776H/Tg
+QQIYUEWUSykhtNAFFzCg//78M3BBCCTpSVHo95KDEOCACExgAgcwP5cEBAA7
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/baregrep/BareGrep2.gif
+
+R0lGODlhJgApAOcAAO7u7u3t7evr6+rq6ujo6Ofn5+Xl5eTk5Obm5unp6ezs7ICAgNnZ2dvb293d
+3eDg4OLi4sDAwAAAAMrKys3NzdLS0tfX17a2tr6+vsbGxtDQ0NjY2P///6SkpLCwsL29vdXV1d7e
+3pWVlaamptPT04yMjKCgoLS0tMXFxYeHh56entTU1N/f3+Pj425ubsnJyeHh4VZWVnBwcLy8vM/P
+z9zc3ENDQ1tbW3d3d5SUlK+vr9bW1gD/ADMzM0pKSmZmZoWFhaOjoycnJz09PVlZWXl5eZqamiAg
+IDU1NVBQUJKSkrGxsdra2hwcHC8vL2tra42Nja2trRkZGSwsLEdHR2hoaIuLi6urqxgYGCsrK0ZG
+RmdnZ4qKiqqqqsTExBcXFyoqKomJiampqUVFRWVlZbu7u8LCwv//AL+/vwD//wAAgAAA/4iIiKio
+qMPDwy4uLsfHx3JyclRUVCEhIUlJSaenp8HBwcvLy35+fmJiYkxMTCkpKSYmJigoKDw8PFFRUWxs
+bNHR0XZ2dlVVVU1NTUhISEREREFBQT4+PktLS11dXXR0dI6OjnNzc2RkZGFhYVpaWm9vb4GBgZmZ
+mbW1tZubm5OTk4aGhoODg39/f3x8fH19fbi4uKGhoZ2dnczMzLq6ure3t7m5uc7Ozv//////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////yH5BAEKAP8ALAAAAAAmACkA
+AAj+AAEIBBAggIABBAoYMHCgocOHBwwgKJBggIIAAzNmDLCgo8ePID0yaODgAQQDBARc1JhRwYII
+MGPKnBlhgYQJFCpYcAABgUWMLA2+lEC0qFGjNSNIuIAhg4YNDwwkWKlRQYKXNLPCXMBBaQcPHyaA
+CHFgKlCBARQQGHoUqUyuXSWIGHEhAwmyZgcaRIA1pFa4cUuYOIHirlSqAQYc8Ni249GabVOoOJFh
+BQufQK22sNm2aEetMCW4SGHiwosNMFIWVMu5s1HOWSXEkFFixAwaNQwMKCigtWvPErRKsHEDRw4d
+KHakVuCSKA8eR58f9U00dA8fP4AE+VCBRQEBvSX+SG87HrrN2EKGECli5AKF3OHFQ39efr708zMl
+HEGSRIaSJS8wccAAnI3nnH3OEYWfTBI04YQPT0ARRQYMtEDggfLRJ594HMLGoBRTUFGFFVegsIGF
+Bc6HoYEKBpcfFllosQUXXXhhQQtXrUgfgq89ptQXYGjxQxhi2IijAzaxWBSLHjII5BhkEGlkAjWk
+GB10PVbnJBhQSnljAg5QQN1vTW7ZZZFfsqBBGWN2NmZMEjwZJZo4PrCCGWK06RlsLpo555QtMPDC
+CYxN11oEZyhVVGhyeokjAixUgMZQIb320hkL/sjln18mAIGgbP0mgUdpqKFlnJs6moAAkFaAFWj+
+oS2wxhqluojqmVNqxkCookqgxqy1KoVFkEPSmcBeIbwKa2i/0mqqBMPiagEEx6r1gLLLKtVsrVJk
+ASUbbbixA7UAWAVBr65ta+obQoLrBggwJEDQAIHCoYMSccgxRBZzNCEFFlh8IfDAvgJrKh1bsFGH
+HSukNq8BDdxxgRF45KHHED28kQUYHHfM8R5C8MFHH2/48QcgXLRhBwkPEEAQqyEE8sEIUAiSxyCE
+FKLFzmP03LMhNhyCiB9DHJKIIoswIoYZLBdAkLU7ZHCCCVDg0QggVWzxww9kdN21I3k8oggkRNyQ
+RySSTKKDFys84HS5CRxQQyBuUFJHJZYwUgK/F3yH4bffbFyCSSaaFFHEJpfkMAInE6Dm8ssFQMBE
+IHBgcMESUVzRxeZidN55G3V00IknRkxihAldXOBFBTWUNZACA0TuwA6BfPICHCjkjoIXvPfuRgQf
+gBLKBReIggYcgTAAg096wU7AATCEUAMTDGxg/QYWZK/9DitUoMEon3wySgU71BDVVBsZhJBCDD3U
+wvvwQwDDAyxIX4MDITzQAkUCnNW8AgcZgAAHmIACGjABBEgIAhAgEQQQYFUrCQgAOw==
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/baregreppro/BareGrepPro2.gif
+
+R0lGODlhJgApAOcAAO7u7u3t7evr6+rq6ujo6Ofn5+Xl5eTk5Obm5unp6ezs7ICAgNnZ2dvb293d
+3eDg4OLi4sDAwAAAAMrKys3NzdLS0tfX17a2tr6+vsbGxtDQ0NjY2P///6SkpLCwsL29vdXV1d7e
+3pWVlaamptPT0///AIyMjKCgoLS0tMXFxYeHh56entTU1N/f3+Pj425ubsnJyeHh4f+/AFZWVnBw
+cLy8vM/Pz9zc3ENDQ1tbW3d3d5SUlK+vr9bW1gD/ADMzM0pKSmZmZoWFhaOjoycnJz09PVlZWXl5
+eZqamiAgIDU1NVBQUJKSkrGxsdra2hwcHC8vL2tra42Nja2trRkZGSwsLEdHR2hoaIuLi6urqxgY
+GCsrK0ZGRmdnZ4qKiqqqqsTExBcXFyoqKomJiampqUVFRWVlZbu7u8LCwr+/v/9/AAD//wAAgAAA
+/4iIiKioqMPDwy4uLsfHx3JyclRUVCEhIUlJSaenp8HBwcvLy35+fmJiYkxMTCkpKSYmJigoKDw8
+PFFRUWxsbNHR0XZ2dlVVVU1NTUhISEREREFBQT4+PktLS11dXXR0dI6OjnNzc2RkZGFhYVpaWm9v
+b4GBgZmZmbW1tZubm5OTk4aGhoODg39/f3x8fH19fbi4uKGhoZ2dnczMzLq6ure3t7m5uc7OzoCA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA
+gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCH5BAEKAP8ALAAAAAAmACkA
+AAj+AAEIBBAggIABBAoYMHCgocOHBwwgKJBggIIAAzNmDLCgo8ePID0yaODgAQQDBARc1JhRwYII
+MGPKnBlhgYQJFCpYcAABgUWMLA2+lEC0qFGjNSNIuIAhg4YNDwwkWKlRQYKXNLPCXMBBaQcPHyaA
+CHFgKlCBARQQGHoUqUyuXSWIGHEhAwmyZgcaRIC1hN+/WuHGNXECRYq7UqkGGHBggd+2j5HaPKpi
+BYoMLFr4BGrVRYm2Rv1qhSnhhYoTF2BsiJGyoNrPoI+WkCEhq4QZNEyMqGHjhoEBBQXAjh1ahlYJ
+OHLo2MEjRQ/WChTA9uHjKHXZtN1K+AEkiJAhHyr+tCggQLiE623RV59tm0gRI0eQXKDg2/z56tTV
+47/OfqaEJEosQQMTTcDgxAEDTFddUdepR1R/MknwBBRARCHFFBkw4EKCRDWY337nhThbbRFSUYUV
+V2CRRQobbKhgiPfFWBxNEmixBRddePEFGBa4kMCLH4JYnHZhiMFFEGOQwaOPDnyGnnULPkgbjUWW
+YUaSSyZww4tGPSklUf5VeaWSPSbgAAXDEfelbWJiWWYLGpyRJnEjuqVUm2T6+AALaJAxp2wjThmm
+GFa66aMLDMCAgmN/+iUDbSVwkB2YdxI6ZpYItFBBGi/J8NdfjxKlhqeSkkganlkmAEGibD3q6lH+
+o5awBhuUSoBqmQJkWgFWo5GmRhttzEqirZYaOlUCiLKlJlFsACusUloYiWSeCewVAq+9ktZssLTW
+WCyZEFSr1gPYZqvUtsJSsYWVbrwBRw/hAmAVBMvGhi6tcRzZLhwgxJAAQQMgKgcPTMxBRxFb1PEE
+FVpoEcbDEEtwrwR2dOHGHXiwwBrABjSQxwVI6LEHH0X8EMcWYqSscsp9EOGHH3/EAUgggnjxBh4k
+PEAAQbmGMMgHI0hByB6FGHIIF0iXobTSiOCQiCKAFJHIIow04ggZaORcAEHj9pABCidIoccjglzR
+RRBBmKG22pDsEQkjkhiRwx6TUFIJD2Cw8MDS1vImcMANg8BhyR2XYOKICV4kPsbii7uRiSabcHLE
+EZ1kssMInkyw2s48FwCBE4PIgcEFTUyRxReok6G66m/c0cEnoCBRCRInfHEBGBXcUNZACgzguQM9
+DBIKDHKkYHwKYCSvPBwRfCDKKBdcQEoacgzCQAw+6dU7AQfEEMINTjCwwfgbWGD++T2wUIEGpYQS
+SikV9HBDVFNtZBBCCjH0kAv89w9BDA9owfdu4IAQPMAFFBHAWbSngIMM4IEQTIAEJ5gAAiQEAQiQ
+CAIIkACVYCQgADs=
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/news/rss.gif
+
+R0lGODlhJAAOANUAAP9mAP/////IpD8aAcJQBP+aV30zAv+0gv+PRPHUwNVYBOFdBP9yFf/28OCn
+guVeBPRkBffp4O3Jsd+ecvfg0P+rc+e9odByM/r07/BjBfCugv/m1fPCof/j0f/t4fqWU/98JOez
+keirgv/RsuWEQ85VBPmyguR3LuZ7M/DBoSEOAf+FNPjXwc1nI/BsFJ9BA9RhFP/awd1uJAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAkAA4AAAbKwI1g
+SCwaj8jjqQBoOp/QqDRqYE6vWKq1WQk0GABEoMM4BAKrpuAcDsSmVSgrIGF4ApeSOWCBMM4BBGIJ
+ClJxTyAYARQBEwQQZooyBw1nggGEhltOH2cJBA8AZhZ0DRyWg4VaUWIBETBNZg4pZy2omKpQh04M
+DQ2MIbEBDih0BLeZq08jjRdnJKLDCxAECrcRIgcHCE+7AF2fDyauLrILTreAARoZTt4AD9VNCwQE
+APTnTvUAGfX++QDeZRlI5cWAgwgTKlzIcKGKIAA7
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.baremetalsoft.com/stats.php?request_uri=%2Findex.php&http_referer=
+
+R0lGODdhAQABAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgMDAwMDcwKbK8EAgAGAgAIAgAKAgAMAg
+AOAgAABAACBAAEBAAGBAAIBAAKBAAMBAAOBAAABgACBgAEBgAGBgAIBgAKBgAMBgAOBgAACAACCA
+AECAAGCAAICAAKCAAMCAAOCAAACgACCgAECgAGCgAICgAKCgAMCgAOCgAADAACDAAEDAAGDAAIDA
+AKDAAMDAAODAAADgACDgAEDgAGDgAIDgAKDgAMDgAODgAAAAQCAAQEAAQGAAQIAAQKAAQMAAQOAA
+QAAgQCAgQEAgQGAgQIAgQKAgQMAgQOAgQABAQCBAQEBAQGBAQIBAQKBAQMBAQOBAQABgQCBgQEBg
+QGBgQIBgQKBgQMBgQOBgQACAQCCAQECAQGCAQICAQKCAQMCAQOCAQACgQCCgQECgQGCgQICgQKCg
+QMCgQOCgQADAQCDAQEDAQGDAQIDAQKDAQMDAQODAQADgQCDgQEDgQGDgQIDgQKDgQMDgQODgQAAA
+gCAAgEAAgGAAgIAAgKAAgMAAgOAAgAAggCAggEAggGAggIAggKAggMAggOAggABAgCBAgEBAgGBA
+gIBAgKBAgMBAgOBAgABggCBggEBggGBggIBggKBggMBggOBggACAgCCAgECAgGCAgICAgKCAgMCA
+gOCAgACggCCggECggGCggICggKCggMCggOCggADAgCDAgEDAgGDAgIDAgKDAgMDAgODAgADggCDg
+gEDggGDggIDggKDggMDggODggAAAwCAAwEAAwGAAwIAAwKAAwMAAwOAAwAAgwCAgwEAgwGAgwIAg
+wKAgwMAgwOAgwABAwCBAwEBAwGBAwIBAwKBAwMBAwOBAwABgwCBgwEBgwGBgwIBgwKBgwMBgwOBg
+wACAwCCAwECAwGCAwICAwKCAwMCAwOCAwACgwCCgwECgwGCgwICgwKCgwMCgwOCgwADAwCDAwEDA
+wGDAwIDAwKDAwP/78KCgpICAgP8AAAD/AP//AAAA//8A/wD//////yH5BAAAAAAALAAAAAABAAEA
+AAgEAP8FBAA7
+
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: text/html
+Content-ID: <frame-5AF3DE2BAE3C3D8D47258EAC8A6F3BBE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7c4465=
+0f-5000-4a79-aa9c-15369b7613bd@mhtml.blink" /></head><body></body></html>
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7c44650f-5000-4a79-aa9c-15369b7613bd@mhtml.blink
+
+@charset "utf-8";
+
+html body { border: 0px; margin: 0px; padding: 0px; }
+
+html, body { overflow: hidden; }
+
+.ita-kd-img { background-image: url("https://www.gstatic.com/inputtools/ima=
+ges/ita_sprite8.png"); background-size: 850px 250px; }
+
+@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-kd-img { background-image: url("https://www.gstatic.com/inputtools/i=
+mages/ita_sprite8_2x.png"); }
+}
+
+@media screen and (-ms-high-contrast:white-on-black) {
+  .ita-kd-img { background-image: url("https://www.gstatic.com/inputtools/i=
+mages/ita_sprite_grey8.png"); }
+  @media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-kd-img { background-image: url("https://www.gstatic.com/inputtools/i=
+mages/ita_sprite_grey8_2x.png"); }
+}
+}
+
+.ita-ff-black-enabled .ita-kd-img { background-image: url("https://www.gsta=
+tic.com/inputtools/images/ita_sprite_grey8.png"); }
+
+@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-ff-black-enabled .ita-kd-img { background-image: url("https://www.gs=
+tatic.com/inputtools/images/ita_sprite_grey8_2x.png"); }
+}
+
+.ita-ppe-can, .ita-ppe-ant, .ita-ppe-can, .ita-ppe-can-list, .ita-ppe-tbl, =
+.ita-ppe-td, .ita-ppe-div, .ita-ppe-uds { font-size: inherit; text-align: i=
+nherit; background-color: inherit; }
+
+.ita-ppe-ant { color: rgb(169, 169, 169); font-size: 14px; }
+
+.ita-ppe-box { position: absolute; display: block; background-color: white;=
+ color: black; cursor: move; border: 1px solid rgb(205, 205, 205); padding:=
+ 6px; font-size: 16px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index=
+: 2147483644; text-align: justify; overflow: hidden; }
+
+.ita-ppe-box.ita-ppe-box-mobile { box-shadow: 0px 0px; display: inline-bloc=
+k; left: 0px; padding: 6px 0px; width: 100%; }
+
+.ita-ppe-can { margin: 2px; padding: 4px; line-height: 16px; height: 18px; =
+}
+
+.ita-ppe-can-list { cursor: pointer; display: block; min-height: 1.5em; mar=
+gin: 6px 0px 0px; padding: 0px; white-space: nowrap; }
+
+.ita-ppe-box-mobile .ita-ppe-can-list { overflow-x: auto; max-width: 100%; =
+margin: 6px 0px -100px; padding: 6px 0px 106px; }
+
+.ita-ppe-cur { display: inline-block; width: 2px; height: 18px; background-=
+color: rgb(84, 189, 240); overflow: hidden; text-decoration: blink; float: =
+none; }
+
+.ita-ppe-edit { height: 20px; line-height: 20px; font-size: 18px; text-alig=
+n: inherit; background-color: inherit; padding: 0px 0px 6px; outline: none;=
+ border: none; white-space: nowrap; font-family: Arial, sans-serif; cursor:=
+ text; }
+
+.ita-ppe-div { white-space: nowrap; }
+
+.ita-ppe-box-mobile > .ita-ppe-div { font-size: 24px; overflow-x: hidden; }
+
+.ita-ppe-logo { background-image: url("https://ssl.gstatic.com/inputtools/i=
+mages/search_button_normal.png"); background-position: -197px 3px; width: 4=
+8px; height: 20px; margin: 2px; padding: 0px; float: right; }
+
+.ita-ppe-pgd, .ita-ppe-pgu { display: inline-block; margin: 6px -1px 0px 0p=
+x; width: 22px; opacity: 0.55; border: 1px solid gray; height: 18px; border=
+-radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 24=
+5, 245); cursor: default; }
+
+.ita-ppe-navi-box { padding-left: 6px; white-space: nowrap; }
+
+.ita-ppe-pgd { background-position: -816px -66px; }
+
+.ita-ppe-pgu { background-position: -616px -116px; }
+
+.ita-ppe-tbl { width: 100%; }
+
+.ita-ppe-tbl, .ita-ppe-td { border: none; padding: 0px; margin: 0px; }
+
+.ita-ppe-uds { border-bottom: 2px solid; margin: 0px 1px; }
+
+.ita-ppe-hlt { color: rgb(34, 34, 34); background-color: rgb(241, 241, 241)=
+; }
+
+.ita-ppe-hov { opacity: 0.9; }
+
+.ita-ppe-dis { opacity: 0.333; }
+
+.ita-ppe-dis-text { color: rgb(119, 119, 119); }
+
+.ita-isv { position: absolute; border: 0px; margin: 0px; padding: 0px; back=
+ground-repeat: repeat-x; }
+
+.ita-isv-grey { color: grey; margin-top: 0px; }
+
+.ita-isv-red { color: transparent; margin-top: -2px; background-image: url(=
+"https://ssl.gstatic.com/inputtools/images/tilde.png"); }
+
+@media screen and (-ms-high-contrast:white-on-black) {
+  .ita-ppe-pgd, .ita-ppe-pgu { }
+  .ita-ppe-hlt { font-weight: bold; border: 1px solid; }
+}
+
+.ita-ff-black-enabled .ita-ppe-pgd, .ita-ff-black-enabled .ita-ppe-pgu { }
+
+.ita-ff-black-enabled .ita-ppe-hlt { font-weight: bold; border: 1px solid; =
+}
+
+.vk-box, .vk-btn, .vk-btn-n, .vk-cap, .vk-cap-i, .vk-t, .vk-t-btn { display=
+: inline-block; user-select: none; }
+
+.vk-box { height: auto; padding: 10px; background-color: white; border: 1px=
+ solid rgba(0, 0, 0, 0.3); z-index: 2147483644; font-family: arial, sans-se=
+rif; font-size: 14px; position: fixed; box-shadow: rgba(0, 0, 0, 0.2) 0px 4=
+px 16px; touch-action: pinch-zoom; }
+
+.vk-box-blur { opacity: 0.5; transition: opacity 0.1s linear 0s; }
+
+.vk-box.vk-min { padding: 2px; }
+
+.vk-box.vk-sf-ie { border: 1px solid rgb(204, 204, 204); }
+
+.vk-btn { border: 1px solid rgba(0, 0, 0, 0.1); width: 29px; height: 29px; =
+margin: 2px; text-align: center; vertical-align: middle; position: relative=
+; padding: 1px; min-width: 0px; max-width: 500px; min-height: 0px; max-heig=
+ht: 50px; color: rgb(68, 68, 68); background-color: rgb(245, 245, 245); bac=
+kground-image: linear-gradient(rgb(245, 245, 245), rgb(241, 241, 241)); bor=
+der-radius: 2px; }
+
+.vk-btn.vk-sf-h { border-color: rgb(198, 198, 198); color: rgb(34, 34, 34);=
+ background-color: rgb(248, 248, 248); background-image: linear-gradient(rg=
+b(248, 248, 248), rgb(241, 241, 241)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1=
+px 1px; }
+
+.vk-btn.vk-sf-a { border-color: rgb(198, 198, 198); color: rgb(51, 51, 51);=
+ background-color: rgb(246, 246, 246); background-image: linear-gradient(rg=
+b(246, 246, 246), rgb(241, 241, 241)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1=
+px 2px inset; }
+
+.vk-btn.vk-sf-s { border-color: rgb(204, 204, 204); color: rgb(51, 51, 51);=
+ background-color: rgb(238, 238, 238); background-image: linear-gradient(rg=
+b(238, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1=
+px 2px inset; }
+
+.vk-cap, .vk-t { font-size: 14px; font-family: arial, sans-serif; font-weig=
+ht: normal; line-height: 25px; }
+
+.vk-cap { cursor: default; }
+
+.vk-cap.vk-sf-b, .vk-t-btn { background-repeat: no-repeat; }
+
+.vk-cap.vk-sf-b { width: 22px; height: 17px; opacity: 0.667; }
+
+.vk-sf-ff2 .vk-cap.vk-sf-b { display: block; position: relative; left: 6px;=
+ top: 0px; }
+
+.vk-cap.vk-sf-b.vk-sf-h { opacity: 0.9; }
+
+.vk-cap.vk-sf-b.vk-sf-c8 { background-position: -714px -16px; }
+
+.vk-cap.vk-sf-b.vk-sf-c20 { background-position: -614px -66px; }
+
+.vk-cap.vk-sf-b.vk-sf-c16 { background-position: -814px -16px; }
+
+.vk-cap.vk-sf-c273 { font-size: 14px; }
+
+.vk-cap-i { border: none; width: 20px; height: 20px; }
+
+.vk-t { height: 24px; cursor: move; padding: 0px 3px; color: rgb(136, 136, =
+136); display: inline-block; overflow: hidden; width: 100%; }
+
+.vk-t.vk-min { width: auto; }
+
+.vk-t-btns { margin: 0px; padding: 0px; position: absolute; display: inline=
+-block; white-space: nowrap; top: 0px; }
+
+.vk-t-btns.vk-min { position: relative; }
+
+.vk-t-btn { margin: 0px; opacity: 0.4; height: 14px !important; width: 14px=
+ !important; }
+
+.vk-t-btn.vk-sf-hp { background-position: -670px -70px; }
+
+.vk-t-btn.vk-sf-min { background-position: -720px -70px; }
+
+.vk-t-btn.vk-sf-max { background-position: -770px -70px; }
+
+.vk-t-btn.vk-sf-cl { background-position: -670px -20px; }
+
+.vk-t-btn.vk-sf-th { opacity: 1; }
+
+.vk-t-btn-o { padding: 13px 4px 8px; cursor: default; display: inline-block=
+; position: relative; }
+
+.vk-t-btn-o.vk-min { padding: 2px; }
+
+.vk-t-btn-o.vk-sf-hp { cursor: pointer; }
+
+.vk-ea-l { margin-right: 32px; }
+
+.vk-ea-r { margin-left: 32px; }
+
+.vk-ss { margin: 0px 5px; }
+
+.vk-l-i { pointer-events: none; text-decoration: none; font-weight: bold; c=
+olor: rgb(0, 0, 0) !important; }
+
+.vk-l-a { color: rgb(0, 0, 255); }
+
+@media screen and (-ms-high-contrast:white-on-black) {
+  .vk-btn, .vk-btn.vk-sf-a, .vk-btn.vk-sf-h, .vk-btn.vk-sf-s { background-i=
+mage: none; background-color: black; }
+  .vk-cap.vk-sf-b { opacity: 1; }
+  .vk-btn.vk-sf-a, .vk-btn.vk-sf-h, .vk-btn.vk-sf-s { border-width: 2px; }
+  .vk-btn.vk-sf-a .vk-cap, .vk-btn.vk-sf-h .vk-cap, .vk-btn.vk-sf-s .vk-cap=
+ { font-weight: bold; }
+}
+
+.ita-ff-black-enabled .vk-btn, .ita-ff-black-enabled .vk-btn.vk-sf-a, .ita-=
+ff-black-enabled .vk-btn.vk-sf-h, .ita-ff-black-enabled .vk-btn.vk-sf-s { b=
+ackground-image: none; background-color: black; }
+
+.ita-ff-black-enabled .vk-cap.vk-sf-b { opacity: 1; }
+
+.ita-ff-black-enabled .vk-btn.vk-sf-a, .ita-ff-black-enabled .vk-btn.vk-sf-=
+h, .ita-ff-black-enabled .vk-btn.vk-sf-s { border-width: 2px; }
+
+.ita-ff-black-enabled .vk-btn.vk-sf-a .vk-cap, .ita-ff-black-enabled .vk-bt=
+n.vk-sf-h .vk-cap, .ita-ff-black-enabled .vk-btn.vk-sf-s .vk-cap { font-wei=
+ght: bold; }
+
+.ita-hwt-ime { overflow: hidden; width: 425px; height: 297px; background: r=
+gb(255, 255, 255); touch-action: pinch-zoom; }
+
+.ita-hwt-ime-st { position: fixed; opacity: 0.5; box-shadow: rgba(0, 0, 0, =
+0.2) 0px 4px 16px; border: 1px solid rgb(204, 204, 204); transition: opacit=
+y 0.1s linear 0s; z-index: 2147483640; }
+
+.ita-hwt-ime-full { width: auto !important; left: 2px !important; right: 2p=
+x !important; }
+
+.ita-hwt-ime-opaque { opacity: 0.99 !important; }
+
+.ita-hwt-ime-init-opaque { opacity: 0.99 !important; }
+
+.ita-hwt-ime-hover { opacity: 0.99; transition: opacity 0.1s linear 0s; }
+
+canvas.ita-hwt-canvas { cursor: url("https://ssl.gstatic.com/inputtools/ima=
+ges/pencil.png") 0 10, auto; vertical-align: bottom; touch-action: none; }
+
+.ita-hwt-grip { position: absolute; cursor: move; top: 0px; }
+
+.ita-hwt-ltr .ita-hwt-grip { left: 0px; }
+
+.ita-hwt-rtl .ita-hwt-grip { right: 0px; }
+
+.ita-hwt-close { background-position: -660px -10px; background-color: white=
+; width: 30px; height: 30px; position: absolute; top: 0px; cursor: pointer;=
+ }
+
+.ita-hwt-ltr .ita-hwt-close { right: 0px; }
+
+.ita-hwt-rtl .ita-hwt-close { left: 0px; }
+
+.ita-hwt-candidates { border-top: 1px solid rgb(204, 204, 204); background:=
+ rgb(255, 255, 255); text-align: left; white-space: nowrap; }
+
+.ita-hwt-candidate { display: inline-block; white-space: nowrap; height: 32=
+px; line-height: 24px; padding: 6px 18px 3px; border-right: 1px solid rgb(2=
+04, 204, 204); font-family: arial, verdana, sans-serif; font-size: small; c=
+olor: rgb(34, 34, 34); cursor: pointer; }
+
+.ita-hwt-selected { color: rgb(68, 68, 68); }
+
+.ita-hwt-candidate-hover { background-color: rgb(240, 240, 240); color: rgb=
+(68, 68, 68); }
+
+.ita-hwt-candidate:active { background-color: rgb(224, 224, 224); color: rg=
+b(68, 68, 68); }
+
+.ita-hwt-disabled { opacity: 0.5; }
+
+.ita-hwt-buttons { background-color: rgb(240, 240, 240); height: 60px; bord=
+er-top: 1px solid rgb(204, 204, 204); }
+
+.ita-hwt-button { display: inline-block; vertical-align: top; }
+
+.ita-hwt-backspace { margin: 10px; width: 24px !important; height: 40px !im=
+portant; }
+
+.ita-hwt-backspace-img { background-position: -714px -118px; width: 18px; h=
+eight: 14px; margin: 13px 4px; }
+
+.ita-hwt-space { margin: 10px 0px; height: 24px; width: 296px; line-height:=
+ 24px; font-family: arial, verdana, sans-serif; font-size: small; text-alig=
+n: center; padding: 8px 0px !important; }
+
+.ita-hwt-enter { margin: 10px; width: 24px !important; height: 40px !import=
+ant; }
+
+.ita-hwt-enter-img { margin: 13px 4px; }
+
+.ita-hwt-language { position: absolute; right: 0px; bottom: 0px; width: aut=
+o; height: auto; font-size: small; color: rgb(117, 144, 212); }
+
+.ita-hwt-clear-time { position: absolute; right: 30px; bottom: 0px; width: =
+auto; height: auto; font-size: small; color: rgb(117, 144, 212); cursor: po=
+inter; }
+
+.ita-hwt-insert-time { position: absolute; right: 60px; bottom: 0px; width:=
+ auto; height: auto; font-size: small; color: rgb(117, 144, 212); cursor: p=
+ointer; }
+
+.ita-hwt-enter-img-dark { background-position: -768px -120px; width: 14px; =
+height: 10px; }
+
+.ita-hwt-enter-img-white { background-position: -818px -120px; width: 14px;=
+ height: 10px; }
+
+.ita-hwt-grip { background-position: -700px -160px; width: 47px; height: 29=
+px; }
+
+.ita-hwt-grip-hover { background-position: -650px -160px; }
+
+.ita-hwt-grip:active { background-position: -600px -160px; }
+
+.ita-hwt-jfk { border-radius: 2px; cursor: default; font-size: 11px; font-w=
+eight: bold; text-align: center; white-space: nowrap; padding: 0px 8px; }
+
+.ita-hwt-jfk-hover { box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+.ita-hwt-jfk-standard { box-shadow: none; background-color: rgb(245, 245, 2=
+45); background-image: linear-gradient(rgb(245, 245, 245), rgb(241, 241, 24=
+1)); color: rgb(68, 68, 68); border: 1px solid rgba(0, 0, 0, 0.1); }
+
+.ita-hwt-jfk-standard.ita-hwt-jfk-hover { box-shadow: none; background-colo=
+r: rgb(248, 248, 248); background-image: linear-gradient(rgb(248, 248, 248)=
+, rgb(241, 241, 241)); border: 1px solid rgb(198, 198, 198); color: rgb(51,=
+ 51, 51); }
+
+.ita-hwt-jfk-action { box-shadow: none; background-color: rgb(77, 144, 254)=
+; background-image: linear-gradient(rgb(77, 144, 254), rgb(71, 135, 237)); =
+border: 1px solid rgb(48, 121, 237); color: rgb(255, 255, 255); }
+
+.ita-hwt-jfk-action.ita-hwt-jfk-hover { box-shadow: none; background-color:=
+ rgb(53, 122, 232); background-image: linear-gradient(rgb(77, 144, 254), rg=
+b(53, 122, 232)); border: 1px solid rgb(47, 91, 183); }
+
+.ita-hwt-butterbar { position: absolute; left: 0px; bottom: 100px; border-r=
+adius: 2px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; border-style: solid=
+; border-width: 0px; font-size: 11px; height: 0px; opacity: 0; visibility: =
+hidden; overflow: hidden; padding: 0px; margin: 10px; text-align: center; b=
+ackground-color: rgb(249, 237, 190); border-color: rgb(240, 195, 109); colo=
+r: rgb(51, 51, 51); }
+
+.ita-hwt-butterbar.shown { transition: opacity 0.218s ease 0s; border-width=
+: 1px; height: 14px; opacity: 1; visibility: visible; padding: 2px 16px; }
+
+@media screen and (-ms-high-contrast:white-on-black) {
+  .ita-hwt-candidate-hover, .ita-hwt-candidate:active { font-weight: bold; =
+border: 2px solid; }
+  .ita-hwt-jfk-action { outline: solid 2px; }
+  .ita-hwt-jfk { background-image: none; }
+  .ita-hwt-jfk-standard.ita-hwt-jfk-hover, .ita-hwt-jfk-action.ita-hwt-jfk-=
+hover { background-image: none; outline: solid 2px; }
+}
+
+.ita-ff-black-enabled .ita-hwt-candidate-hover, .ita-ff-black-enabled .ita-=
+hwt-candidate:active { font-weight: bold; border: 2px solid; }
+
+.ita-ff-black-enabled .ita-hwt-jfk-action { outline: solid 2px; }
+
+.ita-ff-black-enabled .ita-hwt-jfk { background-image: none; }
+
+.ita-ff-black-enabled .ita-hwt-jfk-standard.ita-hwt-jfk-hover, .ita-ff-blac=
+k-enabled .ita-hwt-jfk-action.ita-hwt-jfk-hover { background-image: none; o=
+utline: solid 2px; }
+
+.ita-kd-btn-zh { background-position: -514px -18px; }
+
+.ita-kd-btn-en { background-position: -564px -18px; }
+
+.ita-kd-btn-dbc { background-position: -514px -68px; }
+
+.ita-kd-btn-sbc { background-position: -564px -68px; }
+
+.ita-kd-btn-zh_pun { background-position: -514px -118px; }
+
+.ita-kd-btn-en_pun { background-position: -564px -118px; }
+
+.ita-kd-arrow { background-position: -620px -218px; width: 12px; height: 15=
+px; }
+
+.ita-kd-floating-bar-icon { background-position: -670px -116px; width: 12px=
+; height: 15px; }
+
+.ita-kd-icon-button.ita-kd-left { border-radius: 2px 0px 0px 2px; }
+
+.ita-kd-icon-button.ita-kd-right, .ita-kd-icon-button.ita-kd-mid { margin-l=
+eft: -1px; }
+
+.ita-kd-icon-button.ita-kd-single { border-radius: 2px; }
+
+.ita-kd-icon-button { display: inline-block; min-width: 54px; text-align: c=
+enter; color: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: =
+27px; padding: 0px 8px; margin: 0px; transition: all 0.218s ease 0s; user-s=
+elect: none; cursor: default; }
+
+.ita-kd-inputtools-div { display: table; white-space: nowrap; }
+
+.ita-kd-inputtools-div .ita-kd-icon-button { float: left; position: relativ=
+e; z-index: 1; }
+
+::-webkit-input-placeholder { color: rgb(153, 153, 153); }
+
+.ita-kd-icon-button.ita-kd-small { min-width: 33px; width: 33px; padding: 0=
+px; }
+
+.ita-kd-icon-button.ita-kd-small.ita-kd-mobile { height: 30px; width: 44px;=
+ }
+
+.ita-kd-icon-button.ita-kd-dropdown { min-width: 18px; width: 18px; padding=
+: 0px; }
+
+.ita-kd-icon-button.ita-kd-dropdown.ita-kd-mobile { height: 30px; width: 36=
+px; }
+
+.ita-kd-icon-button.ita-kd-floating-bar { min-width: 14px; width: 14px; pad=
+ding: 0px; cursor: move; }
+
+.ita-kd-icon { width: 23px; height: 16px; }
+
+.ita-kd-icon-span { display: inline-block; margin: 6px 0px 0px; opacity: 0.=
+26; vertical-align: middle; }
+
+.ita-kd-arrow.ita-kd-icon-span, .ita-kd-statusbar-icon, .ita-kd-icon-button=
+.ita-kd-selected .ita-kd-icon-span { opacity: 0.54; }
+
+.ita-kd-icon-button:focus { outline: none; }
+
+.ita-kd-statusbar { box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; border-radi=
+us: 3px; white-space: nowrap; direction: ltr; position: fixed; background-c=
+olor: rgb(238, 238, 238); z-index: 2147483643; }
+
+.ita-kd-statusbar-table { padding: 0px; margin: 0px; border: none; }
+
+.ita-kd-separator { border-top: 1px solid rgb(235, 235, 235); margin-top: 5=
+px; margin-bottom: 6px; }
+
+.ita-kd-inputtool-icon:focus { margin-right: 1px; }
+
+.ita-kd-dropdown-menu { background: rgb(255, 255, 255); border: 1px solid r=
+gba(0, 0, 0, 0.2); padding: 6px 0px; margin: 0px; white-space: nowrap; z-in=
+dex: 2147483645; transition: opacity 0.218s ease 0s; position: absolute; }
+
+.ita-kd-dropdown-menu-mobile { position: absolute; top: 0px; left: 0px; bac=
+kground-color: rgba(199, 200, 200, 0.5); width: 100%; height: 100%; z-index=
+: 100; }
+
+.ita-kd-dropdown-menu-mobile > .ita-kd-dropdown-menu { margin: auto; max-wi=
+dth: 600px; position: relative; top: 50%; transform: translateY(-50%); }
+
+.ita-kd-dropdown-menu:focus { outline: none; }
+
+.ita-kd-dropdown-menu.ita-kd-ie { border: 1px solid rgb(204, 204, 204); wid=
+th: 260px; }
+
+.ita-kd-menuitem { display: block; padding: 6px 38px 6px 8px; position: rel=
+ative; color: rgb(51, 51, 51); font-size: 13px; height: 16px; font-weight: =
+normal; cursor: default; }
+
+.ita-kd-dropdown-menu-mobile .ita-kd-menuitem { padding-top: 16px; }
+
+.ita-kd-menuitem-inputtool-icon { width: 23px; height: 16px; display: inlin=
+e-block; opacity: 0.54; position: relative; top: 3px; }
+
+.ita-kd-menuitem-inputtool-name { line-height: 17px; padding: 0px 6px; }
+
+.ita-kd-menuitem-setting { line-height: 17px; padding: 0px 22px; }
+
+.ita-kd-menuitem-hover { background-color: rgb(241, 241, 241) !important; c=
+olor: rgb(34, 34, 34) !important; }
+
+.ita-kd-menuitem .ita-kd-checkbox { display: inline-block; width: 22px; hei=
+ght: 16px; }
+
+.ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox { background-image: url("=
+https://www.gstatic.com/inputtools/images/ita_sprite8.png"); background-pos=
+ition: -614px -14px; background-size: 850px 250px; }
+
+@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox { background-image: url=
+("https://www.gstatic.com/inputtools/images/ita_sprite8_2x.png"); }
+}
+
+@media screen and (-ms-high-contrast:white-on-black) {
+  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox { background-image: url=
+("https://www.gstatic.com/inputtools/images/ita_sprite_grey8.png"); }
+  @media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox { background-image: url=
+("https://www.gstatic.com/inputtools/images/ita_sprite_grey8_2x.png"); }
+}
+  .ita-kd-icon-span, .ita-kd-menuitem-inputtool-icon { opacity: 1; }
+  .ita-kd-menuitem-hover { border: 1px solid; font-weight: bold; }
+  .ita-kd-statusbar { border: 1px solid; }
+  .ita-kd-icon-button.ita-kd-icon-button-hover { border: 1px solid; }
+}
+
+.ita-ff-black-enabled .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox { b=
+ackground-image: url("https://www.gstatic.com/inputtools/images/ita_sprite_=
+grey8.png"); }
+
+@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+  .ita-ff-black-enabled .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {=
+ background-image: url("https://www.gstatic.com/inputtools/images/ita_sprit=
+e_grey8_2x.png"); }
+}
+
+.ita-ff-black-enabled .ita-kd-icon-span, .ita-ff-black-enabled .ita-kd-menu=
+item-inputtool-icon { opacity: 1; }
+
+.ita-ff-black-enabled .ita-kd-menuitem-hover { border: 1px solid; font-weig=
+ht: bold; }
+
+.ita-ff-black-enabled.ita-kd-statusbar { border: 1px solid; }
+
+.ita-ff-black-enabled .ita-kd-icon-button.ita-kd-icon-button-hover { border=
+: 1px solid; }
+
+.kd-bubble { background: rgb(249, 237, 190); outline: rgb(240, 195, 109) so=
+lid 1px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; padding: 16px; border-=
+radius: 2px; width: 300px; }
+
+.kd-bubble a { text-decoration: none; color: rgb(17, 85, 204); cursor: poin=
+ter; }
+
+.kd-bubble p { color: rgb(102, 102, 102); margin: 0px; font-size: 13px; lin=
+e-height: 18px; }
+
+p.kd-bubble-links { margin-top: 10px; }
+
+.kd-bubble-pointer { outline: none; display: block; position: absolute; top=
+: -11px; left: 24px; margin: 0px 0px 0px -5px; width: 17px; height: 11px; b=
+ackground: url("image/bubble_point_yellow.png"); }
+------MultipartBoundary--DwrIioo3NGS6CmSATB5WgSeQ9NNim8SU2NhOjXs9NP------
